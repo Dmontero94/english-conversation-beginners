@@ -52,7 +52,7 @@ Write 2 examples in Spanish or English ✏️
 ## 🗣️ Practice / Práctica
 
 🎧 **Listen and repeat:**  
-[Listen to the dialogue](./resources/audios/lesson02_introductions.mp3)  
+[Listen to the dialogue](./Resources/Audios/lesson02_introductions.mp3)  
 
 🗣️ **Pair Activity — Mini Interview / Mini entrevista**  
 Ask and answer the following with your classmate or teacher:  
