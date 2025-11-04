@@ -43,7 +43,7 @@ Now, let’s see how to say it in English 👇
 <p align="center">
   🎧 <b>Listen to the dialogue:</b><br>
   <audio controls>
-    <source src="../Resources/Audios/lesson01_greetings.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Dmontero94/english-conversation-beginners/main/Resources/Audios/lesson01_greetings.mp3">
     Your browser does not support the audio element.
   </audio>
 </p>
