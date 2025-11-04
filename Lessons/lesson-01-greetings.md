@@ -40,7 +40,7 @@ Now, let’s see how to say it in English 👇
 ## 🗣️ Practice / Práctica
 
 🎧 **Listen and repeat:**  
-*(Audio link will be added here)*  
+[Listen to the dialogue](./resources/audios/lesson01_greetings.mp3)
 
 🗣️ **Try it yourself:**  
 Practice the dialogue aloud or with a partner.  
