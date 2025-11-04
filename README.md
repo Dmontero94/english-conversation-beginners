@@ -5,7 +5,7 @@
 
 ---
 
-![Banner preview — your image will go here](/resources/banner_english.png)
+![English Conversation Banner](./resources/banner_english.png)
 
 ---
 
@@ -78,6 +78,8 @@ Cada clase se adapta a tu ritmo e intereses — conversaremos, practicaremos y a
 ### Practice / Práctica
 🎧 Listen and repeat each phrase  
 🗣️ Try the dialogue with a partner or record yourself
+
+
 
 🧠 License / Licencia
 
