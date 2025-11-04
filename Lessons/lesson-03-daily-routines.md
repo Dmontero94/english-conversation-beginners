@@ -67,7 +67,7 @@ We use **I + verb** to talk about habits or daily actions.
 ## 🗣️ Practice / Práctica
 
 🎧 **Listen and repeat:**  
-*(Audio link will go here — e.g., `lesson03_daily_routines.mp3`)*  
+[Listen to the dialogue](../Resources/Audios/lesson03_daily_routines.mp3) 
 
 💬 **Speaking activity:**  
 Answer these questions about yourself:
