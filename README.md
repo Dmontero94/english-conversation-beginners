@@ -59,7 +59,7 @@ Cada clase se adapta a tu ritmo e intereses — conversaremos, practicaremos y a
 
 ## 🧩 Example Lesson / Ejemplo de lección
 
-```markdown
+```
 ## 🗣️ Lesson 01 — Greetings / Saludos
 **Level:** A1  
 **Objective:** Learn how to greet and introduce yourself.  
@@ -78,7 +78,11 @@ Cada clase se adapta a tu ritmo e intereses — conversaremos, practicaremos y a
 ### Practice / Práctica
 🎧 Listen and repeat each phrase  
 🗣️ Try the dialogue with a partner or record yourself
-```markdown
+---
+
+🌷 *End of Example Lesson / Fin del Ejemplo de Lección* 🌷
+
+---
 
 🧠 License / Licencia
 
