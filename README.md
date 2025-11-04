@@ -59,22 +59,22 @@ Cada clase se adapta a tu ritmo e intereses — conversaremos, practicaremos y a
 
 ## 🧩 Example Lesson / Ejemplo de lección
 ```
-## 🗣️ Lesson 01 — Greetings / Saludos
+🗣️ Lesson 01 — Greetings / Saludos
 **Level:** A1  
 **Objective:** Learn how to greet and introduce yourself.  
 **Objetivo:** Aprender a saludar y presentarte.
 
-### Dialogue / Diálogo
+Dialogue / Diálogo
 - A: Hi! How are you?  
 - B: I’m fine, thank you! And you?
 
-### Vocabulary / Vocabulario
+Vocabulary / Vocabulario
 | English | Español |
 |----------|----------|
 | Hello | Hola |
 | Nice to meet you | Encantado/a |
 
-### Practice / Práctica
+Practice / Práctica
 🎧 Listen and repeat each phrase  
 🗣️ Try the dialogue with a partner or record yourself
 
