@@ -42,6 +42,7 @@ Now, let’s see how to say it in English 👇
 🎧 **Listen and repeat:**  
 [Listen to the dialogue](../Resources/Audios/lesson01_greetings.mp3)
 
+
 🗣️ **Try it yourself:**  
 Practice the dialogue aloud or with a partner.  
 Practica el diálogo en voz alta o con un compañero.  
