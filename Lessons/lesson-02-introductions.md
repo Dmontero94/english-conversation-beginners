@@ -52,14 +52,7 @@ Write 2 examples in Spanish or English ✏️
 ## 🗣️ Practice / Práctica
 
 🎧 **Listen and repeat:**  
-html
-<p align="center">
-  <audio controls>
-    <source src="../Resources/Audios/lesson01_greetings.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</p>
-html
+[Listen to the dialogue](../Resources/Audios/lesson02_introductions.mp3)  
 
 🗣️ **Pair Activity — Mini Interview / Mini entrevista**  
 Ask and answer the following with your classmate or teacher:  
