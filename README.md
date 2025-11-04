@@ -58,8 +58,7 @@ Cada clase se adapta a tu ritmo e intereses — conversaremos, practicaremos y a
 ---
 
 ## 🧩 Example Lesson / Ejemplo de lección
-
-
+```
 ## 🗣️ Lesson 01 — Greetings / Saludos
 **Level:** A1  
 **Objective:** Learn how to greet and introduce yourself.  
