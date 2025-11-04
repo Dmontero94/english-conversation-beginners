@@ -5,7 +5,7 @@
 
 ---
 
-![English Conversation Banner](./resources/banner_english.png)
+![English Conversation Banner](./Resources/banner_english.png)
 
 ---
 
