@@ -80,6 +80,7 @@ Cada clase se adapta a tu ritmo e intereses — conversaremos, practicaremos y a
 
 
 🌷 *End of Example Lesson / Fin del Ejemplo de Lección* 🌷
+```
 
 ---
 
